@@ -1,0 +1,92 @@
+.hd {
+  background-color: purple;
+  padding: 15px;
+  margin-bottom: 5px;
+  display: flex;
+  justify-content: center;
+}
+
+.text {
+  color: whitesmoke;
+}
+
+.tntg {
+  font-size: larger;
+}
+
+.tt {
+  text-align: center;
+}
+
+.ft {
+  background-color: purple;
+  padding: 15px;
+  margin-bottom: 5px;
+  display: flex;
+  justify-content: center;
+}
+
+.tuh {
+  text-align: center;
+  font-size: larger;
+  color: whitesmoke;
+}
+
+.tit {
+  font-size: 50px;
+  text-align: center;
+}
+
+.map {
+  border: solid black 1px;
+  width: 600px;
+}
+
+@media (max-width: 1500px) {
+  .img {
+    width: 500px;
+    height: 500px;
+  }
+}
+@media (max-width: 1260px) {
+  .img {
+    width: 630px;
+    height: 630px;
+  }
+}
+@media (max-width: 1200px) {
+  .img {
+    width: 600px;
+    height: 600px;
+  }
+}
+@media (max-width: 1080px) {
+  .img {
+    width: 540px;
+    height: 540px;
+  }
+}
+@media (max-width: 900px) {
+  .img {
+    width: 450px;
+    height: 450px;
+  }
+}
+@media (max-width: 800px) {
+  .img {
+    width: 400px;
+    height: 400px;
+  }
+}
+@media (max-width: 560px) {
+  .img {
+    width: 280px;
+    height: 280px;
+  }
+}
+@media (max-width: 540px) {
+  .img {
+    width: 270px;
+    height: 270px;
+  }
+}
